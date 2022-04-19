@@ -1,0 +1,14 @@
+.Team-profile{
+    text-align: center;
+    font-size: 115px;
+    font-weight: 700;
+    color: white;
+}
+.profile-item{
+    background: skyblue;
+    padding: 123px 16px 162px;
+}
+.profile-text{
+    margin-top: 110px;
+    color: white;
+}

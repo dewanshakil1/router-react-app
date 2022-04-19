@@ -1,0 +1,25 @@
+.navSec{
+    display: flex;
+    justify-content: space-around;
+  background: rgba(21, 21, 21, 0.375);
+  align-items: center;
+  color: white;
+}
+.logo{
+width: 55px;
+height: auto;
+border-radius: 50%;
+}
+.Nav-item{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    margin-top: 18px;
+}
+.Nav-item li a{
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
+}

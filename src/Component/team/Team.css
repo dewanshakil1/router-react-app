@@ -1,0 +1,32 @@
+.Card-item{
+    width: 18rem;
+    margin-block: 10px;
+    background: palevioletred;
+    border-radius: 15px;
+    margin-left: 15px;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  margin: auto;
+}
+.social-icon{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+.social-icon li a{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.Link{
+    width: 100%;
+    height: auto;
+    text-transform: uppercase;
+    color: #efefef;
+    background-color: #0dcaf0;
+    border-color: #0dcaf0;
+}

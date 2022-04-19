@@ -1,0 +1,43 @@
+.adddevs-head {
+    display: flex;
+    justify-content: space-between;
+
+}
+.adddevs-head Button{
+    background-color: rgba(255, 0, 0, 0.462);
+    height: 37px;
+    width: 123px;
+    padding: 0px 0px;
+}
+.adddevs-head Button a{
+    color: white;
+    text-decoration: none;
+
+}
+.adddevs-head Button a:hover{
+    color: white;
+}
+.team-img {
+    text-align: center;
+}
+.team-img img{
+    width:80px ;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.table-body td {
+    line-height: 75px;
+}
+
+.action-icon a {
+    padding: 20px;
+    padding: 8px 13px;
+    font-size: 22px;
+    background: greenyellow;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: revert;
+    margin-left: 4px;
+}
